@@ -9,6 +9,7 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
+    """פונקציית חילוק"""
     try:
         return a / b
     except ZeroDivisionError:
