@@ -1,1 +1,6 @@
-## simple calculator 
+# simple calculator 
+## functions
+**sum**\
+**sub**\
+**mult**\
+**div**
